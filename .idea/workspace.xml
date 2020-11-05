@@ -1,21 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01548451-aeb0-4580-b2d7-e09b4e71c3d2" name="Default Changelist" comment="" />
+    <list default="true" id="01548451-aeb0-4580-b2d7-e09b4e71c3d2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Block3.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Block5.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Checkeditor.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Error.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Loading.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Modal.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/About.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/App.vue" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/components/Checkeditor.vue" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/views/Home.vue" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
   <component name="ProjectId" id="1jE9lLhFhBRSdvfAko5SyDmHzpX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\17106\Desktop\vue3-app-vite\src\components" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
@@ -30,10 +89,40 @@
       <updated>1603358536099</updated>
       <workItem from="1603358539629" duration="90000" />
       <workItem from="1604498027449" duration="178000" />
+      <workItem from="1604498408041" duration="2828000" />
+      <workItem from="1604550237972" duration="3711000" />
+      <workItem from="1604570902414" duration="5412000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1258" height="146" key="GridCell.Tab.0.bottom" timestamp="1604554756217">
+      <screen x="0" y="23" width="1280" height="697" />
+    </state>
+    <state width="1258" height="146" key="GridCell.Tab.0.bottom/0.23.1280.697@0.23.1280.697" timestamp="1604554756217" />
+    <state width="1258" height="146" key="GridCell.Tab.0.center" timestamp="1604554756217">
+      <screen x="0" y="23" width="1280" height="697" />
+    </state>
+    <state width="1258" height="146" key="GridCell.Tab.0.center/0.23.1280.697@0.23.1280.697" timestamp="1604554756217" />
+    <state width="1258" height="146" key="GridCell.Tab.0.left" timestamp="1604554756216">
+      <screen x="0" y="23" width="1280" height="697" />
+    </state>
+    <state width="1258" height="146" key="GridCell.Tab.0.left/0.23.1280.697@0.23.1280.697" timestamp="1604554756216" />
+    <state width="1258" height="146" key="GridCell.Tab.0.right" timestamp="1604554756217">
+      <screen x="0" y="23" width="1280" height="697" />
+    </state>
+    <state width="1258" height="146" key="GridCell.Tab.0.right/0.23.1280.697@0.23.1280.697" timestamp="1604554756217" />
+    <state x="150" y="23" key="SettingsEditor" timestamp="1604574275051">
+      <screen x="0" y="23" width="1280" height="697" />
+    </state>
+    <state x="150" y="2" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1604498542552" />
+    <state x="150" y="23" key="SettingsEditor/0.23.1280.697@0.23.1280.697" timestamp="1604574275051" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1604500041884">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1604500041884" />
   </component>
 </project>
